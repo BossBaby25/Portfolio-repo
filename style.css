@@ -1,0 +1,42 @@
+.yellow {
+    color: orange;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.ass {
+    color: rgb(41, 38, 38);
+}
+
+.one {
+    width: 50%;
+    padding: 5%;
+}
+
+.one img {
+    width: 100%;
+}
+
+section {
+    display: flex;
+}
+
+#button {
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: orangered;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+}
+
+.top {
+    background-image: url(images/0.jpg);
+    background-repeat: no-repeat;
+}
